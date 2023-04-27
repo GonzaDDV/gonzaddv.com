@@ -22,14 +22,14 @@ const MouseAnimation = () => {
       />
       <motion.rect
         x="25.4004"
-        y="32.8"
+        y="27.8"
         width="12.8"
         height="8.00005"
         rx="4.00003"
         transform="rotate(-90 22.4004 32.8)"
         fill="#AEAEAE"
-        initial={{ x: -2, y: 0, opacity: 1, rotate: -90 }}
-        animate={{ x: -2, y: 10, opacity: 0 }}
+        initial={{ y: 0, opacity: 1, rotate: -90 }}
+        animate={{ y: 10, opacity: 0 }}
         transition={{ ease: "easeInOut", duration: 2, repeat: Infinity }}
       />
     </svg>
