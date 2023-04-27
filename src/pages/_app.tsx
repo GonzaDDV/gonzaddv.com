@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import type { AppProps } from "next/app";
 import { Castoro } from "next/font/google";
 import { appWithTranslation } from "next-i18next";
@@ -25,7 +26,8 @@ const App = ({ Component, pageProps }: AppProps) => {
         }}
         themeColor="#000"
       />
-      <Component {...pageProps}></Component>
+      <Component {...pageProps} />
+      <Analytics />
     </main>
   );
 };
