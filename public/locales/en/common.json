@@ -1,0 +1,32 @@
+{
+  "seo": {
+    "title": "gonzaddv - My personal website",
+    "description": "Hey! I'm Gonza, a developer and entrepreneur with a love of writing and a drive to create positive change. Alongside my technical expertise, I'm deeply interested in history, philosophy and self-development. As a creative and expressive individual, I enjoy documenting my experiences and insights through writing, sharing my thoughts on the topics I enjoy the most. I believe that through the power of words, we can inspire others, share knowledge, and make a meaningful impact on the world."
+  },
+  "home": {
+    "title": "gonzaddv",
+    "subtitle": "Probably writing, coding or reading",
+    "about-me": "Hey! I'm Gonza, a developer and entrepreneur with a love of writing and a drive to create positive change. Alongside my technical expertise, I'm deeply interested in history, philosophy and self-development. As a creative and expressive individual, I enjoy documenting my experiences and insights through writing, sharing my thoughts on the topics I enjoy the most. I believe that through the power of words, we can inspire others, share knowledge, and make a meaningful impact on the world."
+  },
+  "sidebar": {
+    "home": "Home",
+    "projects": "Projects",
+    "contact": "Contact",
+    "blog": "Blog",
+    "other-lang": "Ver en Español"
+  },
+  "projects": {
+    "title": "My projects",
+    "subtitle": "Here are some of my most meaningful projects. To see others, visit my "
+  },
+  "contact": {
+    "title": "Contact me",
+    "subtitle": "You can get in touch with me through any of my social media, but if you want to make sure I'll read your message, send it here:",
+    "form": {
+      "name": "Your name",
+      "email": "Your email",
+      "message": "Your message",
+      "button": "Send"
+    }
+  }
+}

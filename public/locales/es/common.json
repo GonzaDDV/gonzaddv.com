@@ -1,0 +1,32 @@
+{
+  "seo": {
+    "title": "gonzaddv - Mi página personal",
+    "description": "¡Hola! Soy Gonza, un desarrollador y emprendedor apasionado por la escritura y con la determinación de crear un cambio positivo. Junto con mi experiencia técnica, tengo un profundo interés en la historia, la filosofía y el desarrollo personal. Como persona creativa y expresiva, disfruto documentar mis experiencias y reflexiones a través de la escritura, compartiendo mis pensamientos sobre los temas que más me apasionan. Creo que a través del poder de las palabras podemos inspirar a otros, compartir conocimientos y generar un impacto significativo en el mundo."
+  },
+  "home": {
+    "title": "gonzaddv",
+    "subtitle": "Probablemente escribiendo, programando o leyendo.",
+    "about-me": "¡Hola! Soy Gonza, un desarrollador y emprendedor apasionado por la escritura y con la determinación de crear un cambio positivo. Junto con mi experiencia técnica, tengo un profundo interés en la historia, la filosofía y el desarrollo personal. Como persona creativa y expresiva, disfruto documentar mis experiencias y reflexiones a través de la escritura, compartiendo mis pensamientos sobre los temas que más me apasionan. Creo que a través del poder de las palabras podemos inspirar a otros, compartir conocimientos y generar un impacto significativo en el mundo."
+  },
+  "sidebar": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "other-lang": "View in English"
+  },
+  "projects": {
+    "title": "Mis proyectos",
+    "subtitle": "Algunos de mis proyectos más importantes. Para ver más, visita mi "
+  },
+  "contact": {
+    "title": "Contactame",
+    "subtitle": "Me podés contactar desde cualquiera de mis redes sociales, pero si querés asegurarte de que lea tu mensaje, mandalo por acá:",
+    "form": {
+      "name": "Tu nombre",
+      "email": "Tu email",
+      "message": "Tu mensaje",
+      "button": "Enviar"
+    }
+  }
+}
