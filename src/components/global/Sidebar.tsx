@@ -52,7 +52,7 @@ const Sidebar = () => {
 
           <li className="text-4xl p-6 cursor-pointer w-full group">
             <a
-              href="https://blog.gonzaddv.com"
+              href="https://gonzaddv.substack.com"
               target="_blank"
               rel="noopener noreferrer"
               className={clsxm([
