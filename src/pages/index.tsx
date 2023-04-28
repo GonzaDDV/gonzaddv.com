@@ -28,9 +28,9 @@ export default function Home() {
         description={t("seo.description") as string}
       />
       <SplashScreen />
-      <div className="w-full h-screen overflow-y-scroll snap snap-y snap-mandatory grid grid-cols-4 p-10 bg-white gap-20">
+      <div className="w-full h-screen overflow-y-scroll snap snap-y snap-mandatory grid grid-cols-4 p-10 px-6 bg-white gap-20">
         <div className="fixed top-0 right-0 left-0 h-10 w-full bg-white"></div>
-        <div className="snap-start col-span-4 lg:col-span-3">
+        <div className="md:snap-start col-span-4 lg:col-span-3">
           <div className="fixed w-full-p lg:w-70p bg-black h-16 flex items-center p-4 rounded-t-md">
             <MacButtons />
           </div>

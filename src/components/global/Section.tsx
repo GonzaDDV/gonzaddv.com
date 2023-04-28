@@ -21,7 +21,7 @@ const Section = ({
 }: SectionProps) => {
   return (
     <section
-      className={clsxm(["h-screen py-28", snap && "snap-start"])}
+      className={clsxm(["h-auto md:h-screen py-28", snap && "md:snap-start"])}
       id={id}
     >
       <h1

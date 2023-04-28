@@ -30,18 +30,18 @@ module.exports = {
 
       fontSize: {
         headline: "17vw",
-        "headline-mobile": "21.8vw",
+        "headline-mobile": "20.3vw",
         "headline-sm": "2.8vw",
         "headline-sm-mobile": "6vw",
         projects: "11.8vw",
-        "projects-mobile": "14.5vw",
+        "projects-mobile": "13.5vw",
         contact: "14.3vw",
-        "contact-mobile": "17.3vw",
+        "contact-mobile": "16.1vw",
       },
 
       width: {
-        "70p": "calc(75% - 5rem)",
-        "full-p": "calc(100% - 5rem)",
+        "70p": "calc(75% - 3rem)",
+        "full-p": "calc(100% - 3rem)",
       },
 
       spacing: {

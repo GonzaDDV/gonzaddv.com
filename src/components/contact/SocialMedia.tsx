@@ -79,7 +79,7 @@ const SocialMediaItem = ({
       className="bg-gray-300 cursor-pointer group overflow-hidden hover:rounded-lg transition-all"
     >
       <div
-        className={`flex flex-col items-center justify-center gap-2 w-full h-full ${bg} group-hover:text-white duration-300 transition-all  py-5`}
+        className={`flex flex-col items-center justify-center gap-2 w-full h-full ${bg} group-hover:text-white duration-300 transition-all py-5`}
       >
         <Icon size={40} />
         <p className={`${fontSize} hidden xl:block`}>{text}</p>
@@ -90,7 +90,7 @@ const SocialMediaItem = ({
 
 const SocialMedia = () => {
   return (
-    <div className="grid grid-cols-6 md:grid-cols-2 lg:grid-cols-3 gap-2">
+    <div className="grid grid-cols-3 md:grid-cols-2 lg:grid-cols-3 gap-2">
       {SocialMediaInfo.map((info) => (
         <SocialMediaItem {...info} key={info.name} />
       ))}
