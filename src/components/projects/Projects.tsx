@@ -2,7 +2,13 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 
-function ProjectCard({ project, url, logo }) {
+interface ProjectCardProps {
+  project: string;
+  url: string;
+  logo: string;
+}
+
+function ProjectCard({ project, url, logo }: ProjectCardProps) {
   const { t } = useTranslation();
   return (
     <div className="flex flex-col justify-between bg-white border-black border-2 rounded-sm p-4 group hover:bg-gray-300 transition-all">
