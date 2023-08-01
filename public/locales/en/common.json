@@ -17,7 +17,32 @@
   },
   "projects": {
     "title": "My projects",
-    "subtitle": "Here are some of my most meaningful projects. To see others, visit my "
+    "subtitle": "Here are some of my most meaningful projects. To see others, visit my ",
+    "visit": "Visit",
+    "lecto": {
+      "name": "LectO",
+      "description": "A text editor specially designed for people with dyslexia"
+    },
+    "artificiame": {
+      "name": "Artificia.me",
+      "description": "A website with the latest news about Artificial Intelligence in Spanish"
+    },
+    "finanzas": {
+      "name": "Finanzas.com.uy",
+      "description": "A group of websites about personal finance in Uruguay, Peru, Paraguay and Bolivia"
+    },
+    "screening": {
+      "name": "LectO Screening",
+      "description": "An application for the premature detection of learning disorders"
+    },
+    "ruidea": {
+      "name": "RUIDEA",
+      "description": "A website for the registry of people with Specific Learning Difficulties"
+    },
+    "futuria": {
+      "name": "Futuria",
+      "description": "Web3 integrations with existing websites like ladiaria"
+    }
   },
   "contact": {
     "title": "Contact me",

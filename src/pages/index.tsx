@@ -10,6 +10,7 @@ import Section from "@/components/global/Section";
 import Sidebar from "@/components/global/Sidebar";
 import SplashScreen from "@/components/global/SplashScreen";
 import MouseAnimation from "@/components/home/MouseAnimation";
+import Projects from "@/components/projects/Projects";
 
 const AnimatedCursor = dynamic(
   () => import("@/components/global/CustomCursor"),
@@ -71,7 +72,7 @@ export default function Home() {
               .
             </p>
 
-            <p className="mt-20 text-2xl">WIP. Soon.</p>
+            <Projects />
           </Section>
 
           <Section
