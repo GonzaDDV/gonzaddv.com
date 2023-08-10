@@ -27,7 +27,7 @@ function ProjectCard({ project, url, logo }: ProjectCardProps) {
         </div>
         <p className="text-lg mt-2">{t(`projects.${project}.description`)}</p>
       </div>
-      <div className="flex justify-end mt-4">
+      <div className="flex justify-end mt-2">
         <a
           className="text-violet-600 underline underline-offset-4"
           href={url}
@@ -81,7 +81,7 @@ export default function Projects() {
     setIsClient(true);
   }, []);
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-10 mt-6">
+    <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mt-6">
       {isClient &&
         PROJECTS.map(({ key, logo, url }) => (
           <ProjectCard key={key} project={key} url={url} logo={logo} />
