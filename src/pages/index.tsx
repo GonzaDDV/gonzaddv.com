@@ -2,7 +2,6 @@ import dynamic from "next/dynamic";
 import { useTranslation } from "next-i18next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import { NextSeo } from "next-seo";
-import ReactMarkdown from "react-markdown";
 
 import ContactForm from "@/components/contact/ContactForm";
 import SocialMedia from "@/components/contact/SocialMedia";
