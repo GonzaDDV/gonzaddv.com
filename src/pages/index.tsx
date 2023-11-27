@@ -47,15 +47,10 @@ export default function Home() {
                 {t("home.subtitle")}
               </h3>
               <div className="w-40 h-1 bg-black my-5"></div>
-              <ReactMarkdown
-                allowedElements={["a", "p", "strong", "em", "br"]}
-                className="text-2xl w-full text-justify leading-relaxed"
-              >
+
+              <p className="text-2xl w-full text-justify leading-relaxed">
                 {t("home.about-me")}
-              </ReactMarkdown>
-              {/* <p className="text-2xl w-full text-justify leading-relaxed">
-                {t("home.about-me")}
-              </p> */}
+              </p>
             </div>
             <div className="flex justify-center mt-20">
               <MouseAnimation />
