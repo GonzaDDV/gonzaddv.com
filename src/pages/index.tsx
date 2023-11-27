@@ -2,6 +2,7 @@ import dynamic from "next/dynamic";
 import { useTranslation } from "next-i18next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import { NextSeo } from "next-seo";
+import ReactMarkdown from "react-markdown";
 
 import ContactForm from "@/components/contact/ContactForm";
 import SocialMedia from "@/components/contact/SocialMedia";
@@ -47,9 +48,15 @@ export default function Home() {
                 {t("home.subtitle")}
               </h3>
               <div className="w-40 h-1 bg-black my-5"></div>
-              <p className="text-2xl w-full text-justify leading-relaxed">
+              <ReactMarkdown
+                allowedElements={["a", "p", "strong", "em", "br"]}
+                className="text-2xl w-full text-justify leading-relaxed"
+              >
                 {t("home.about-me")}
-              </p>
+              </ReactMarkdown>
+              {/* <p className="text-2xl w-full text-justify leading-relaxed">
+                {t("home.about-me")}
+              </p> */}
             </div>
             <div className="flex justify-center mt-20">
               <MouseAnimation />

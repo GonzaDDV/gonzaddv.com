@@ -1,12 +1,12 @@
 {
   "seo": {
     "title": "gonzaddv - Mi página personal",
-    "description": "¡Hola! Soy Gonza, un desarrollador y emprendedor apasionado por la escritura y con la determinación de crear un cambio positivo. Junto con mi experiencia técnica, tengo un profundo interés en la historia, la filosofía y el desarrollo personal. Como persona creativa y expresiva, disfruto documentar mis experiencias y reflexiones a través de la escritura, compartiendo mis pensamientos sobre los temas que más me apasionan. Creo que a través del poder de las palabras podemos inspirar a otros, compartir conocimientos y generar un impacto significativo en el mundo."
+    "description": "¡Hola! Soy Gonza, fundador de ddv.software.  Gracias a mi curiosidad, logré emprender un viaje fascinante en el que busco encontrar respuestas a las preguntas que me hago día a día para así entender mejor cómo funcionamos los humanos. Aunque algunas de estas preguntas pueden no tener respuestas claras, es la búsqueda de entendimiento lo que me impulsa y apasiona. \n De esta manera terminé en el mundo de la programación, donde, mezclando ingenio, creatividad y entusiasmo, puedo solucionar problemas. Para llevar esto a un nivel superior, fundé ddv.software, una empresa que busca crear soluciones para las necesidades cotidianas de las personas y empresas."
   },
   "home": {
     "title": "gonzaddv",
-    "subtitle": "Probablemente escribiendo, programando o leyendo.",
-    "about-me": "¡Hola! Soy Gonza, un desarrollador y emprendedor apasionado por la escritura y con la determinación de crear un cambio positivo. Junto con mi experiencia técnica, tengo un profundo interés en la historia, la filosofía y el desarrollo personal. Como persona creativa y expresiva, disfruto documentar mis experiencias y reflexiones a través de la escritura, compartiendo mis pensamientos sobre los temas que más me apasionan. Creo que a través del poder de las palabras podemos inspirar a otros, compartir conocimientos y generar un impacto significativo en el mundo."
+    "subtitle": "Buscando respuestas.",
+    "about-me": "¡Hola! Soy Gonza, fundador de ddv.software.  Gracias a mi curiosidad, logré emprender un viaje fascinante en el que busco encontrar respuestas a las preguntas que me hago día a día para así entender mejor cómo funcionamos los humanos. Aunque algunas de estas preguntas pueden no tener respuestas claras, es la búsqueda de entendimiento lo que me impulsa y apasiona. \n De esta manera terminé en el mundo de la programación, donde, mezclando ingenio, creatividad y entusiasmo, puedo solucionar problemas. Para llevar esto a un nivel superior, fundé ddv.software, una empresa que busca crear soluciones para las necesidades cotidianas de las personas y empresas."
   },
   "sidebar": {
     "home": "Inicio",
