@@ -48,9 +48,9 @@ const PROJECTS = [
     url: "https://lecto.app",
   },
   {
-    key: "artificiame",
-    logo: "/logos/artificiame.png",
-    url: "https://artificia.me",
+    key: "stream",
+    logo: "/logos/stream.png",
+    url: "https://streamprotocol.money",
   },
   {
     key: "screening",
@@ -63,9 +63,9 @@ const PROJECTS = [
     url: "https://pasaporte.dea.ong",
   },
   {
-    key: "finanzas",
-    logo: "/logos/finanzas.png",
-    url: "https://finanzas.com.uy",
+    key: "ddv-software",
+    logo: "/logos/ddv-software.png",
+    url: "https://ddv.software",
   },
   {
     key: "futuria",

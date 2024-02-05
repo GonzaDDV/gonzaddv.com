@@ -23,13 +23,13 @@
       "name": "LectO",
       "description": "A text editor specially designed for people with dyslexia"
     },
-    "artificiame": {
-      "name": "Artificia.me",
-      "description": "A website with the latest news about Artificial Intelligence in Spanish"
+    "stream": {
+      "name": "Stream Protocol",
+      "description": "A DeFi company creating products that leverage TradFi to improve the user experience"
     },
-    "finanzas": {
-      "name": "Finanzas.com.uy",
-      "description": "A group of websites about personal finance in Uruguay, Peru, Paraguay and Bolivia"
+    "ddv-software": {
+      "name": "DDV Software",
+      "description": "My software development company, where we create high-quality software, fast."
     },
     "screening": {
       "name": "LectO Screening",
@@ -37,7 +37,7 @@
     },
     "ruidea": {
       "name": "RUIDEA",
-      "description": "A website for the registry of people with Specific Learning Difficulties"
+      "description": "A web app for the registry of people with Specific Learning Difficulties"
     },
     "futuria": {
       "name": "Futuria",
